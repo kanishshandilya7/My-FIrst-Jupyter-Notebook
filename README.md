@@ -1,1 +1,1 @@
-<h1> Final Assignment for IBM COursera Course. </h1>
+<h1> Final Assignment for IBM Coursera Course. </h1>
